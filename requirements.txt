@@ -1,2 +1,2 @@
-toshiba-ac==0.3.4
 janus==1.0.0
+aiohttp~=3.11.13
